@@ -1,0 +1,18 @@
+# Core NLP dependencies (existing)
+spacy>=3.0.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+
+# LLM Integration (NEW)
+groq>=0.4.0                    # For Groq API (RECOMMENDED - 14,400 requests/day)
+google-generativeai>=0.3.0     # For Google Gemini API (1,500 requests/day)
+
+# Optional: Environment variable management
+python-dotenv>=1.0.0           # For loading API keys from .env file
+
+# Data processing (if needed)
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
