@@ -514,7 +514,8 @@ def main():
     
     # Sidebar
     with st.sidebar:
-        st.image("https://via.placeholder.com/300x100/667eea/ffffff?text=Totem+Interactive", use_container_width=True)
+        st.image("Totem Interactive.jpg", use_container_width=True)
+        st.header("Totem Interactive")
         
         st.markdown("---")
         st.header("⚙️ Settings")
