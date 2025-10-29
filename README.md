@@ -530,7 +530,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 **Authors**
 
-- **Your Name** - *Initial work & LLM Integration*
+- **Satyam Patil** - *Initial work & LLM Integration*
 - **Totem Interactive AI** - *Assignment Framework*
 
 ---
@@ -538,7 +538,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 **Acknowledgments**
 
 - spaCy for the excellent NLP framework
-- Groq for providing FREE high-quality LLM API
+- gemini for providing FREE high-quality LLM API
 - Google for Gemini API access
 - Streamlit for the beautiful web framework
 
@@ -548,14 +548,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: patilsatyam83@gmail.com
 
 ---
 
 ## 🎉 **Quick Links**
 
-- [Get FREE Groq API Key](https://console.groq.com/) (Recommended)
-- [Get FREE Gemini API Key](https://aistudio.google.com/)
+- [Get FREE Groq API Key](https://console.groq.com/)
+- [Get FREE Gemini API Key](https://aistudio.google.com/) (Recommended)
 - [spaCy Documentation](https://spacy.io/)
 - [Streamlit Documentation](https://docs.streamlit.io/)
 
